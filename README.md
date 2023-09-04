@@ -133,6 +133,8 @@ add it. Or PR to it I guess. It's cool either way.
   to level up your fingers!
 - [textual-bee](https://github.com/torshepherd/textual-bee) - A word puzzle
   for the terminal, written with Textual.
+- [textual-game-of-life](https://github.com/thomascrha/textual-game-of-life) -
+  A implementation of Conway's game of life (cellular automata) in the terminal using textual. 
 - [textual-musicplayer](https://github.com/bluematt/textual-musicplayer) - A
   simple music player (MP3, etc.) using Textual.
 - [textual-paint](https://github.com/1j01/textual-paint) - MS Paint... in
